@@ -67,10 +67,10 @@ function isFirefoxBrowser()
 function getGameUrl(isWidescreen = false)
 {
     if (isWidescreen) {
-        return "https://html-classic.itch.zone/html/16838032/index.html";
+        return "https://html-classic.itch.zone/html/16842530/index.html";
     }
 
-    return "https://html-classic.itch.zone/html/16838017/index.html";
+    return "https://html-classic.itch.zone/html/16842514/index.html";
 }
 
 function startGame(isWidescreen = false)
